@@ -179,3 +179,8 @@
 #     print("Kirishingiz mumkin!")
 # else:
 #     print("Afususki kirishingiz mumkin emas :(")
+
+# 11 - dars
+# LIG'ATLAR(DICTIONARY)
+# lug'at_nomi = {'kalit so'z': 'qiymat'} - lug'atlar shu tarzda yaratiladi
+
